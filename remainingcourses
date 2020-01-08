@@ -1,0 +1,18 @@
+1) install laravel and composer - done1, done2
+2) categories crud(routes, migrations, model, controller, view, validations) - done1, done2
+3) product crud(file uploads) - done1 done2
+4) pages crud - done1, done2
+6) migrations custom library and old input retaining, templating - done1 done2
+7) authentication component / templating 2 admin - done 1 done2
+8) template the frontend pages - done 1 done 2 
+9) create home page - done 1 done 2 
+10) create categories page and product single page,  and pages section - done1 done 2
+11) create helpers, create user registration, change password  - done1, done 2
+12) create shopping cart , create wishlist - done1 , done 2
+13) create checkout and custom middleware - done1, done 2
+14) shopping cart with ajax ,pull checkout data in backend, create search filter - done1, done2
+15) use swiftmailer to send email(tested), concept of payment(to be tested)
+16) Twitter Bootstrap 4 - done1, done2
+18) Website Deployment(to be tested) - done1
+17) react js basic and namespaces(to be tested) 
+19) Wrapping the course
